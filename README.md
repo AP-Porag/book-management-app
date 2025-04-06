@@ -16,7 +16,7 @@ Check out the live React app here: [https://bma.madbrain.dev](https://bma.madbra
 
 ```
 book-management-app/
-├── API/                 ← Express server (Node.js)
+├── api/                 ← Express server (Node.js)
 ├── client/              ← React frontend (Vite)
 ├── vercel.json          ← For deploying API to Vercel
 ├── .gitignore
@@ -41,7 +41,7 @@ Make sure you have the following installed:
 ### 1. Navigate to the API folder
 
 ```bash
-cd API
+cd api
 ```
 
 ### 2. Install dependencies
@@ -91,7 +91,7 @@ Create a file named `.env` inside the `client/` directory and add the following:
 ```env
 VITE_API_URL=http://localhost:5000/api
 ```
-Change the VITE_API_URL according server your URL
+Change the VITE_API_URL according to your server URL
 
 ### 4. Start the React app
 
