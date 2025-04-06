@@ -1,4 +1,4 @@
-# 📚 Book Management App
+# Book Management App
 
 A full-stack Book Management web application built using:
 
@@ -6,13 +6,13 @@ A full-stack Book Management web application built using:
 - 🌐 React + TypeScript + Vite (Frontend)
 - 🗄 MongoDB (Database)
 
-## 🚀 Live Site
+## Live Site
 
 Check out the live React app here: [https://bma.madbrain.dev](https://bma.madbrain.dev)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 book-management-app/
@@ -25,9 +25,9 @@ book-management-app/
 
 ---
 
-## 🧑‍💻 Getting Started
+## Getting Started
 
-### 🔧 Prerequisites
+### Prerequisites
 
 Make sure you have the following installed:
 
@@ -36,7 +36,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🔙 Backend Setup (Express API)
+## Backend Setup (Express API)
 
 ### 1. Navigate to the API folder
 
@@ -70,7 +70,7 @@ This should start your backend server at `http://localhost:5000`.
 
 ---
 
-## 🌐 Frontend Setup (React)
+## Frontend Setup (React)
 
 ### 1. Navigate to the client folder
 
@@ -103,19 +103,19 @@ This should start the frontend at `http://localhost:5173`.
 
 ---
 
-## 🧪 Testing Live
+## Testing Live
 
-Go to 👉 **[https://bma.madbrain.dev](https://bma.madbrain.dev)** to view the deployed React frontend.
+Go to **[https://bma.madbrain.dev](https://bma.madbrain.dev)** to view the deployed React frontend.
 
 ---
 
-## 🗂 .gitignore Note
+## .gitignore Note
 
 - All `node_modules/` and `.env` files are ignored
 - `vercel.json` is NOT ignored so it can be used to deploy the API to Vercel
 
 ---
 
-## 📄 License
+## License
 
 MIT License
