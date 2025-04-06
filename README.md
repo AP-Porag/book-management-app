@@ -14,7 +14,6 @@ A full-stack Book Management web application built using:
 book-management-app/
 ├── api/                 ← Express server (Node.js)
 ├── client/              ← React frontend (Vite)
-├── vercel.json          ← For deploying API to Vercel
 ├── .gitignore
 └── README.md
 ```
