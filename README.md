@@ -6,10 +6,6 @@ A full-stack Book Management web application built using:
 - 🌐 React + TypeScript + Vite (Frontend)
 - 🗄 MongoDB (Database)
 
-## Live Site
-
-Check out the live React app here: [https://bma.madbrain.dev](https://bma.madbrain.dev)
-
 ---
 
 ## Project Structure
@@ -100,12 +96,6 @@ npm run dev
 ```
 
 This should start the frontend at `http://localhost:5173`.
-
----
-
-## Testing Live
-
-Go to **[https://bma.madbrain.dev](https://bma.madbrain.dev)** to view the deployed React frontend.
 
 ---
 
