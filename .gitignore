@@ -1,0 +1,35 @@
+# Node.js (API)
+api/node_modules/
+api/.env
+api/dist/
+api/.DS_Store
+api/.idea
+
+# React (client)
+client/node_modules/
+client/.env
+client/dist/
+client/.DS_Store
+client/.idea
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.tsbuildinfo
+
+# IDEs
+.vscode/
+.idea/
+
+# Ignore everything except this file in env examples
+**/.env.*
+!API/.env.example
+!client/.env.example
+
