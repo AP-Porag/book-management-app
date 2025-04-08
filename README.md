@@ -108,3 +108,14 @@ This should start the frontend at `http://localhost:5173`.
 ## License
 
 MIT License
+
+## Screenshots
+
+Login Page
+![alt text](https://github.com/AP-Porag/book-management-app/blob/90225a0a24d58c30ae99e62cfa932c8a8107f623/login.png)
+
+Signup Page
+![alt text](https://github.com/AP-Porag/book-management-app/blob/90225a0a24d58c30ae99e62cfa932c8a8107f623/signup.png)
+
+Home Page
+![alt text](https://github.com/AP-Porag/book-management-app/blob/90225a0a24d58c30ae99e62cfa932c8a8107f623/home.png)
